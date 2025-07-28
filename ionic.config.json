@@ -1,0 +1,7 @@
+{
+  "name": "ionic-app-bp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
